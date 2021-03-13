@@ -1,0 +1,16 @@
+{
+  "name": "svelte-typings-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "validate": "svelte-check"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "svelte": "3.35.0",
+    "svelte-check": "1.2.5"
+  }
+}
